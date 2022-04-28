@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Home's Good Ecommerce",
+    "description": "JAMStack e-commerce site built with Gatsby, Contentful, SnipCart.",
+    "imgUrl": "../images/gatsbyecommerce.PNG",
+    "url": "https://flourishing-elf-aaaae7.netlify.app/",
+    "githubLink": "https://github.com/hnhon/gatsbyecommerce"
+  },
+  {
+    "title": "Huddle landing page",
+    "description": "Repsonsive modern landing page using Tailwind CSS for stying",
+    "imgUrl": "../images/huddle.PNG",
+    "url": "https://unrivaled-rabanadas-e3b347.netlify.app/",
+    "githubLink": "https://github.com/hnhon/Huddle-landing-page"
+  },
+  {
+    "title": "Space tourism",
+    "description": "Repsonsive single page application built with Create-React-App, React Router, Hooks, SCSS modules",
+    "imgUrl": "../images/space.PNG",
+    "url": "https://stunning-starlight-d81c36.netlify.app/",
+    "githubLink": "https://github.com/hnhon/space-tourism-react"
+  }
+]

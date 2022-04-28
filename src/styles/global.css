@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+@apply w-[350px] border rounded-xl shadow-xl pb-10 overflow-hidden;
+}
